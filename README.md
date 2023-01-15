@@ -32,4 +32,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlondhe90960)](https://github.com/anuraghazra/github-readme-stats) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashlondhe90960&" alt="yashlondhe90960" /></p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashlondhe90960&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
