@@ -1,5 +1,8 @@
 ![logo](https://github.com/yashlondhe90960/yashlondhe90960/blob/main/Hacktoberfest2022.jpg)
-<h1 align="center">Hi 👋, I'm Yash Londhe</h1>
+<p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
+<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Yash+Londhe!>;<Nice+to+meet+you!>">
+</a></hp>
+<!-- <h1 align="center">Hi 👋, I'm Yash Londhe</h1> -->
 <h3 align="center">A passionate learner and developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
