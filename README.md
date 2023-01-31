@@ -39,6 +39,10 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashlondhe90960&show_icons=true&locale=en&layout=compact" alt="yashlondhe90960" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlondhe90960&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+## Github stats with snake game 🐍
+![snake gif](https://github.com/yashlondhe90960/yashlondhe90960/blob/output/github-contribution-grid-snake.gif)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashlondhe90960&show_icons=true&locale=en" alt="yashlondhe90960" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashlondhe90960&show_icons=true&locale=en&layout=compact" alt="yashlondhe90960" /></p>
