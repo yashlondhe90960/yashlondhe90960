@@ -1,6 +1,10 @@
+
+
 ## 🏆 Here's My Hacktoberfest Dashboard
 <!-- ![logo](https://github.com/yashlondhe90960/yashlondhe90960/blob/main/Hacktoberfest2022.jpg) -->
 [![An image of @yashlondhe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashlondhe)](https://holopin.io/@yashlondhe)
+
+
 
 <p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
 <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Yash+Londhe!>;<Nice+to+meet+you!>">
