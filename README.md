@@ -2,6 +2,7 @@
 
 ## 🏆 Here's My Hacktoberfest Dashboard
 <!-- ![logo](https://github.com/yashlondhe90960/yashlondhe90960/blob/main/Hacktoberfest2022.jpg) -->
+
 [![An image of @yashlondhe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashlondhe)](https://holopin.io/@yashlondhe)
 
 
@@ -55,4 +56,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashlondhe90960&" alt="yashlondhe90960" /> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashlondhe90960&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
