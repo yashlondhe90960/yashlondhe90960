@@ -11,6 +11,8 @@
 <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Yash+Londhe!>;<Nice+to+meet+you!>">
 </a></hp>
 <!-- <h1 align="center">Hi 👋, I'm Yash Londhe</h1> -->
+
+
 <h3 align="center">A passionate learner and developer from India</h3>
 
 
@@ -59,7 +61,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashlondhe90960&show_icons=true&locale=en&layout=compact" alt="yashlondhe90960" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashlondhe90960&show_icons=true&locale=en&layout=compact" alt="yashlondhe90960" /></p>-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashlondhe90960&" alt="yashlondhe90960" />
 
 </p> 
