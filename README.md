@@ -21,7 +21,7 @@
 
 
 ## 💫 About Me:
-- 💬 Ask me about Android, Web, JetPack Compose,DSA
+- 💬 Ask me about Android, JetPack Compose,DSA
 - 📫 How to reach me yashlondhe9151@gmail.com
 - ⚡ Fun fact We shake hands to show we're unarmed.
 - I regularly write articles on **[hashnode](https://hashnode.com/@yashlondhe33)**
