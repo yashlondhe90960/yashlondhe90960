@@ -6,11 +6,14 @@
 
 
 <p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
+
+
+  
 <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Yash+Londhe!>;<Nice+to+meet+you!>">
 </a></hp>
 <!-- <h1 align="center">Hi 👋, I'm Yash Londhe</h1> -->
 
-
+<!-- haha -->
 
 
 <h3 align="center">A passionate learner and developer from India</h3>
