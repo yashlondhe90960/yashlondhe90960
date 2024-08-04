@@ -1,38 +1,68 @@
-# 🏆 Here's My Hacktoberfest Dashboard
+
 <!-- ![logo](https://github.com/yashlondhe90960/yashlondhe90960/blob/main/Hacktoberfest2022.jpg) -->
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Yash+Londhe;Welcome+to+my+profile!" alt="Title"></img>
+</div>  
+
+## 🏆 Here's My Hacktoberfest Dashboard
 
 [![An image of @yashlondhe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashlondhe)](https://holopin.io/@yashlondhe)
 
 
-
+<!--
 <p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
+-->
 
 
-  
-<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Yash+Londhe!>;<Nice+to+meet+you!>">
+
+<!--<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Yash+Londhe!>;<Nice+to+meet+you!>">
 </a></hp>
+-->
 <!-- <h1 align="center">Hi 👋, I'm Yash Londhe</h1> -->
 
 <!-- haha -->
 
 
-<h3 align="center">A passionate learner and developer from India</h3>
 
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!--
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashlondhe90960&label=Profile%20views&color=0e75b6&style=flat" alt="yashlondhe90960" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yashltwts" target="blank"><img src="https://img.shields.io/twitter/follow/yashltwts?logo=twitter&style=for-the-badge" alt="yashltwts" /></a> </p>
 
-
+<!--
 ## 💫 About Me:
 - 💬 Ask me about Android, JetPack Compose,DSA
 - 📫 How to reach me yashlondhe9151@gmail.com
 - ⚡ Fun fact We shake hands to show we're unarmed.
 - I regularly write articles on **[hashnode](https://hashnode.com/@yashlondhe33)**
+-->
+<h2 align="center">A passionate learner and developer from India</h2>
+
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🔭 I’m currently working on `Backend` Development and `DevOps`.
+- 🌱 I’m currently learning `DevOps` and `backend`
+- 👯 I’m looking to collaborate with GO and Frontend Developers.
+- 📫 How to reach me yashlondhe9151@gmail.com
+- ⚙️ I use daily: `.js`, `.java`, `.go`, `.ts`
+- 💬 Ping me about **Java**, **fullstack**, **development**, **Golang**
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
+
 
 
 ## 🌐 Socials:
@@ -61,6 +91,14 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashlondhe90960&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p >
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
