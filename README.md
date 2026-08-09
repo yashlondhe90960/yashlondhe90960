@@ -52,7 +52,7 @@
 - 🔭 I’m currently working on `Backend` Development and `DevOps`.
 - 🌱 I’m currently learning `DevOps` and `backend`
 - 👯 I’m looking to collaborate with GO and Frontend Developers.
-- 📫 How to reach me yashlondhe9151@gmail.com
+- 📫 How to reach me[ yashlondhe9151@gmail.com](https://portfolio.yashlondhe.dev/)
 - ⚙️ I use daily: `.js`, `.java`, `.go`, `.ts`
 - 💬 Ping me about **Java**, **fullstack**, **development**, **Golang**
 
